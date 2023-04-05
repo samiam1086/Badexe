@@ -1,0 +1,7 @@
+﻿  server.cpp
+c:\users\spex\documents\visual studio 2017\projects\server\server\osversion.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\spex\documents\visual studio 2017\projects\server\server\server.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\spex\documents\visual studio 2017\projects\server\server\vmcheck.cpp(218): warning C4715: 'CheckRegistry': not all control paths return a value
+c:\users\spex\documents\visual studio 2017\projects\server\server\vmcheck.cpp(281): warning C4715: 'CheckVMServices': not all control paths return a value
+c:\users\spex\documents\visual studio 2017\projects\server\server\osversion.cpp(70): warning C4715: 'os_info': not all control paths return a value
+  server.vcxproj -> C:\Users\Spex\Documents\Visual Studio 2017\Projects\server\Debug\server.exe

@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  server.cpp
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\osversion.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(83): warning C4129: 'S': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(83): warning C4129: 'M': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(83): warning C4129: 'W': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(83): warning C4129: 'C': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(83): warning C4129: 'R': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(83): warning C4129: 'c': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(85): warning C4129: 'S': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(85): warning C4129: 'M': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\persist.cpp(85): warning C4129: 'C': unrecognized character escape sequence
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\server.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\server.cpp(123): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  Generating code
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\vmcheck.cpp(150): warning C4715: 'CheckRegistry': not all control paths return a value
+c:\users\spex\documents\visual studio 2017\projects\server_cleartextstrings\client\server\osversion.cpp(70): warning C4715: 'os_info': not all control paths return a value
+  1131 of 1151 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    50 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  server.vcxproj -> C:\Users\Spex\Documents\Visual Studio 2017\Projects\server_cleartextstrings\Client\Release\server.exe
