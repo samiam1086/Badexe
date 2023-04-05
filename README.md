@@ -13,3 +13,8 @@ Badexe, on the other hand, provides security researchers with a rare opportunity
 Moreover, the command-and-control server is often the central hub that an attacker uses to control and manage the infected machines. By having access to this server, security researchers can observe and monitor the attacker's behavior and potentially gain insights into their tactics and motives.
 
 This level of insight is incredibly valuable for developing more effective defense strategies against remote access trojans. With Badexe, security engineers can simulate real-world scenarios, test different detection and mitigation techniques, and improve their overall understanding of remote access trojans. Ultimately, the availability of source code and access to the command-and-control server makes Badexe an incredibly powerful learning tool for those looking to improve their understanding of remote access trojans.
+
+## Notes
+Add ```$(VC_IncludePath);$(WindowsSDK_IncludePath);``` to the include directories in configuration properties > VC++ Directories in the properties thing for visual studio
+also this was made with Visual Studio 2017
+This is what I have set for additional include directiories under the same spot but its ```C/C++ > General > Additional Include Directories``` ```C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\km;%(AdditionalIncludeDirectories)```
