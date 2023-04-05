@@ -1,8 +1,9 @@
+## Disclaimer
+This is for RESEARCH and EDUCATION ONLY do not use this for evil and use it only on your machines.
+
 # Badexe
 This is an example of a Remote Access Trojan that is designed for education and research purposes to better help understand how these trojans work and how to build defenses against them.
 
-## Disclaimer
-This is for RESEARCH and EDUCATION ONLY do not use this for evil and use it only on your machines.
 
 Badexe is a remote access trojan designed specifically for education and research purposes. Badexe is a safer alternative to the traditional way of pulling a malware sample captured in the wild and attempting to run and disassemble it in a virtualized environment to determine how it functions. 
 
