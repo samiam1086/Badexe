@@ -223,7 +223,7 @@ def main():
                 continue
             except BaseException as e:
                 print(e)
-                print("Howed you fuck it up?")
+                print("Howed you get here?")
                 continue
 
             #if we made it here were in the shell
@@ -382,7 +382,7 @@ def main():
 
 
                     else:
-                        print(color_YELL + "[!] Thats not a command dummy" + color_reset)
+                        print(color_YELL + "[!] Thats not a command" + color_reset)
 
                 except socket.error:
                     print(color_RED + "[ERROR] The client could not be reached")
@@ -399,7 +399,7 @@ def main():
                     break
                 except BaseException as e:
                     print(str(e))
-                    print("Bruh u a dummy")
+                    print("Bruh :/")
                     continue
 
         elif(command[0] == "killall"):
